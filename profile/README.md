@@ -37,6 +37,15 @@ We focuses on using technology to improve business performance, <img src="https:
 - :zap: In this introduction to Analytics, we'll show you how to collect and analyse user data and turn it into actionable insights.
 
 ---
+
+### :fire: Our Projects :
+
+- My Diabetes Connect: https://www.mydiabetesconnect.uk/
+- Opendesk: https://www.opendesk.digital/
+- Coach Millionaires: https://www.coachmillionaires.com/
+- Cite Doctor: https://citedoctor.com/
+
+---
 ### :hammer_and_wrench: Languages and Tools :
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
